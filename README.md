@@ -1,3 +1,3 @@
 # hello-world
-Just to begin using
+Just to begin using.
 No comment code, please
